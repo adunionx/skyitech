@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="shortcut icon" type="image/x-icon" href="{$WEB_ROOT}/templates/{$template}/html/img/favicon.png" />
-<title>{if $kbarticle.title}{$kbarticle.title} - {/if}{$pagetitle} - {$companyname}</title>
+<title>BingLoft.Com - Cheap And Reliable Web Hosting Provider In India, Shared Hosting, Reseller Hosting, Live Streaming, VPS Server, Dedicated Server</title>
 {include file="$template/includes/head.tpl"}
 {$headoutput}
 </head>
