@@ -14,7 +14,7 @@ include '../functions.php';
 include '../mobiled.php';
 include 'test.php';
 include 'dev.php';
-echo '<link rel="stylesheet" type="text/css" href="http://adqui.com/xtremeitech.css" />';
+echo '<link rel="stylesheet" type="text/css" href="http://SparkHost.me/xtremeitech.css" />';
 
 $uid=formget("uid");
 $sid=formget("sid");
@@ -66,16 +66,16 @@ $rand="".rand(1,9)."".rand(0,9)."".rand(0,9)."".rand(0,9)."".rand(0,9)."".rand(0
 $_SESSION["hash"]=$rand;
 
 if($Ads["type"]=="text"){
-$pr='<a href="http://adqui.com/ads/click.php?s='.$rand.'">'.$Ads["name"].'</a>';
+$pr='<a href="http://SparkHost.me/ads/click.php?s='.$rand.'">'.$Ads["name"].'</a>';
 }
 else {
-$pr='<a href="http://adqui.com/ads/click.php?s='.$rand.'"><img src="'.$Ads["name"].'" alt="Please Wait.."/></br><strong style="color:red">Click Here..</strong></a>';
+$pr='<a href="http://SparkHost.me/ads/click.php?s='.$rand.'"><img src="'.$Ads["name"].'" alt="Please Wait.."/></br><strong style="color:red">Click Here..</strong></a>';
 }
 }
 }
 
 echo '<div class="line">Free Sex Download Zone!</div>';
-echo '<div class="updates"><a href="http://click.union.ucweb.com/index.php?service=RedirectService&pub=Guls@adqui&offer_id=hotvideo.apk.global"><img src="http://adqui.com/app9/h1.jpg" alt=""/></a></div>';
+echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><img src="http://SparkHost.me/app9/h1.jpg" alt=""/></a></div>';
 if($chSblock["status"] == BLOCKED){
 echo '<div class="updates"><font color="red"><b>Sorry Your Site Is Blocked</b></font></div>';
 }
@@ -87,11 +87,11 @@ echo '<div class="updates"><font color="red"><b>Your Site Is Pending</b></font><
 } 
 if($chSblock["status"] == $activee){
 echo '<div class="updates">'.$pr.'</div>';
-echo '<div class="updates"><a href="http://adlt.adqui.com"><img src="http://adqui.com/app9/h2.jpg" alt="Please Wait.."/></a></div>';
+echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="http://SparkHost.me/app9/h2.jpg" alt="Please Wait.."/></a></div>';
 echo '<div class="updates">'.$pr.'</div>';
 }
-echo '<div class="updates"><a href="http://click.union.ucweb.com/index.php?service=RedirectService&pub=Guls@adqui&offer_id=hotvideo.apk.global"><img src="http://adqui.com/app9/h3.jpg" alt=""/></a></div>';
-echo '<div class="updates"><a href="http://adlt.adqui.com"><img src="http://adqui.com/adultb.php" alt="Please Wait.."/></a></div>';
+echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><img src="http://SparkHost.me/app9/h3.jpg" alt=""/></a></div>';
+echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="http://SparkHost.me/adultb.php" alt="Please Wait.."/></a></div>';
 }
 else {
 
@@ -127,16 +127,16 @@ $rand="".rand(1,9)."".rand(0,9)."".rand(0,9)."".rand(0,9)."".rand(0,9)."".rand(0
 $_SESSION["hash"]=$rand;
 
 if($Ads["type"]=="text"){
-$pr='<a href="http://adqui.com/ads/click.php?s='.$rand.'">'.$Ads["name"].'</a>';
+$pr='<a href="http://SparkHost.me/ads/click.php?s='.$rand.'">'.$Ads["name"].'</a>';
 }
 else {
-$pr='<a href="http://adqui.com/ads/click.php?s='.$rand.'"><img src="'.$Ads["name"].'" alt="Please Wait.."/></br><strong style="color:red">Click Here..</strong></a>';
+$pr='<a href="http://SparkHost.me/ads/click.php?s='.$rand.'"><img src="'.$Ads["name"].'" alt="Please Wait.."/></br><strong style="color:red">Click Here..</strong></a>';
 }
 }
 }
 
 echo '<div class="line">Free Download Zone!</div>';
-echo '<div class="updates"><a href="http://click.union.ucweb.com/index.php?service=RedirectService&pub=Guls@adqui&offer_id=hotvideo.apk.global"><img src="http://cdn.admoda.com/ads/bannerid/1513930" alt=""/></a></div>';
+echo '<div class="updates"><a href="http"><img src="http://SparkHost.me/banner.php" alt=""/></a></div>';
 if($chSblock["status"] == BLOCKED){
 echo '<div class="updates"><font color="red"><b>Sorry Your Site Is Blocked</b></font></div>';
 }
@@ -147,15 +147,15 @@ if($chSblock["status"] == PENDING){
 echo '<div class="updates"><font color="red"><b>Your Site Is Pending</b></font></div>';
 } 
 if($chSblock["status"] == $activee){
-echo '<div class="updates"> <a href="http://click.union.ucweb.com/index.php?service=RedirectService&pub=Guls@adqui&offer_id=hotvideo.apk.global"><img src="http://creative.readserver.net/1436711509655/02890a8037d5892360662a85aa1ca85b.gif" alt=""/></div>';
+echo '<div class="updates"> <a href="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><img src="http://SparkHost.me/banner.php" alt=""/></div>';
 echo '<div class="updates">'.$pr.'</div>';
-echo '<div class="updates"> <a href="http://click.union.ucweb.com/index.php?service=RedirectService&pub=Guls@adqui&offer_id=hotvideo.apk.global"><img src="http://creative.readserver.net/1436711509655/02890a8037d5892360662a85aa1ca85b.gif" alt=""/></a>
+echo '<div class="updates"> <a href="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><img src="http://SparkHost.me/banner.php" alt=""/></a>
 </div>';
 echo '<div class="updates">'.$pr.'</div>';
 }
-echo '<div class="updates"> <a href="http://click.union.ucweb.com/index.php?service=RedirectService&pub=Guls@adqui&offer_id=hotvideo.apk.global"><img src="http://cdn.admoda.com/ads/bannerid/1513948" alt=""/></a>
+echo '<div class="updates"> <a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="http://earnbuzz.in/banner.php" alt=""/></a>
 </div>';
-echo '<div class="updates"><a href="http://kid.adqui.com"><img src="http://adqui.com/banner.php" alt="Please Wait.."/></a></div>';
+echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="http://SparkHost.me/banner.php" alt="Please Wait.."/></a></div>';
 }
 else {
 
@@ -175,7 +175,7 @@ else {
 mysql_query("INSERT INTO imp (uid,imp,date) VALUES ('$uid',1,'$date')");
 }
 
-echo '<div class="line" align="center">Start Earn Money @ adQui.Com</b></a></div>';
+echo '<div class="line" align="center">Start Earn Money @ SparkHost.Me</b></a></div>';
 include 'counter.php';
 echo '</head></html>';
 ?>
