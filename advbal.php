@@ -65,33 +65,33 @@ if(empty($errors)){
       $_SESSION["hash"]=$rand;
 if($chSblock["status"] == BLOCKED){
 include 'a.php';
-$pr='<font color="red"><b>Sorry Your Site Is Blocked At adQui.Com</b></font>';
+$pr='<font color="red"><b>Sorry Your Site Is Blocked At SparkHost.me</b></font>';
 }
 if($chSblock["status"] == REJECT){
-$pr='<font color="red"><b>Sorry Your Site Is Reject At adQui.Com</b></font>';
+$pr='<font color="red"><b>Sorry Your Site Is Reject At SparkHost.me</b></font>';
 include 'a.php';
 }
 if($chSblock["status"] == PENDING){
-$pr='<font color="red"><b>Your Site Is Pending At adQui.Com</b></font>';
+$pr='<font color="red"><b>Your Site Is Pending At SparkHost.me</b></font>';
 include 'a.php';
 }
 if($chSblock["status"] == $activee){
  if (mobile()) {
      if($Ads["type"]=="text"){
-      $pr='<a href="http://adqui.com/ads/adc.php?s='.$rand.'">'.$Ads["name"].'</a>';
+      $pr='<a href="http://SparkHost.me/ads/adc.php?s='.$rand.'">'.$Ads["name"].'</a>';
 include 'a.php';
       }
       else {
-      $pr='<a href="http://adqui.com/ads/adc.php?s='.$rand.'"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://down3.ucweb.com/ucbrowser/en/?pub=Guls@adqui&prod_id=4&ver=2.0"><font color="red"><b>Sunny Leone+Ranbir Kapor Sex App Download</b></font></a>';
+      $pr='<a href="http://SparkHost.me/ads/adc.php?s='.$rand.'"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><font color="red"><b>Sunny Leone+Ranbir Kapor Sex App Download</b></font></a>';
 include 'a.php';
 }
 } else {
    if($Ads["type"]=="text"){
-      $pr='<a href="http://my.adqui.com"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://down3.ucweb.com/ucbrowser/en/?pub=Guls@adqui&prod_id=4&ver=2.0"><font color="red"><b>Sunny Leone+Ranbir Kapor Sex App Download</b></font></a>';
+      $pr='<a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><font color="red"><b>Sunny Leone+Ranbir Kapor Sex App Download</b></font></a>';
 include 'a.php';
       }
       else {
-      $pr='<a href="http://my.adqui.com"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://down3.ucweb.com/ucbrowser/en/?pub=Guls@adqui&prod_id=4&ver=2.0"><font color="red"><b>Sunny Leone+Ranbir Kapor Sex App Download</b></font></a>';
+      $pr='<a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><font color="red"><b>Sunny Leone+Ranbir Kapor Sex App Download</b></font></a>';
 include 'a.php';
 }
 }
@@ -128,34 +128,34 @@ if($chSblock["adult"] == 0){
       
       $_SESSION["hash"]=$rand;
 if($chSblock["status"] == BLOCKED){
-$pr='<font color="red"><b>Sorry Your Site Is Blocked At adQui.Com</b></font>';
+$pr='<font color="red"><b>Sorry Your Site Is Blocked At SparkHost.me</b></font>';
 include 'na.php';
 }
 if($chSblock["status"] == REJECT){
-$pr='<font color="red"><b>Sorry Your Site Is Reject At adQui.Com</b></font>';
+$pr='<font color="red"><b>Sorry Your Site Is Reject At SparkHost.me</b></font>';
 include 'na.php';
 }
 if($chSblock["status"] == PENDING){
-$pr='<font color="red"><b>Your Site Is Pending At adQui.Com</b></font>';
+$pr='<font color="red"><b>Your Site Is Pending At SparkHost.me</b></font>';
 include 'na.php';
 }
 if($chSblock["status"] == $activee){
   if (mobile()) {
      if($Ads["type"]=="text"){
-      $pr='<a href="http://adqui.com/ads/adc.php?s='.$rand.'">'.$Ads["name"].'</a>';
+      $pr='<a href="http://SparkHost.me/ads/adc.php?s='.$rand.'">'.$Ads["name"].'</a>';
 include 'na.php';
       }
       else {
-      $pr='<a href="http://adqui.com/ads/adc.php?s='.$rand.'"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://down3.ucweb.com/ucbrowser/en/?pub=Guls@adqui&prod_id=4&ver=2.0"><font color="red"><b>Free Internet Browser(Opera Mini) Download</b></font></a>';
+      $pr='<a href="http://SparkHost.me/ads/adc.php?s='.$rand.'"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><font color="red"><b>Free Internet Browser(Opera Mini) Download</b></font></a>';
 include 'na.php';
 }
 } else {
    if($Ads["type"]=="text"){
-      $pr='<a href="http://my.adqui.com"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://down3.ucweb.com/ucbrowser/en/?pub=Guls@adqui&prod_id=4&ver=2.0"><font color="red"><b>Free Download All Playstore Paid Apps</b></font></a>';
+      $pr='<a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><font color="red"><b>Free Download All Playstore Paid Apps</b></font></a>';
 include 'na.php';
       }
       else {
-      $pr='<a href="http://my.adqui.com"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://down3.ucweb.com/ucbrowser/en/?pub=Guls@adqui&prod_id=4&ver=2.0"><font color="red"><b>Free Download All Playstore Paid Apps</b></font></a>';
+      $pr='<a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="'.$Ads["name"].'" alt="Please Wait.."/></a></br><a fref="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><font color="red"><b>Free Download All Playstore Paid Apps</b></font></a>';
 include 'na.php';
 }
 }
