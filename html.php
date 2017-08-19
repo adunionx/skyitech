@@ -87,11 +87,11 @@ echo '<div class="updates"><font color="red"><b>Your Site Is Pending</b></font><
 } 
 if($chSblock["status"] == $activee){
 echo '<div class="updates">'.$pr.'</div>';
-echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="http://SparkHost.me/app9/h2.jpg" alt="Please Wait.."/></a></div>';
+echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="http://SparkHost.me/adultb.php" alt="Please Wait.."/></a></div>';
 echo '<div class="updates">'.$pr.'</div>';
 }
-echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><img src="http://SparkHost.me/app9/h3.jpg" alt=""/></a></div>';
-echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="http://SparkHost.me/adultb.php" alt="Please Wait.."/></a></div>';
+echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><img src="http://SparkHost.me/adultd.php" alt=""/></a></div>';
+echo '<div class="updates">'.$pr.'</div>';
 }
 else {
 
@@ -130,13 +130,12 @@ if($Ads["type"]=="text"){
 $pr='<a href="http://SparkHost.me/ads/click.php?s='.$rand.'">'.$Ads["name"].'</a>';
 }
 else {
-$pr='<a href="http://SparkHost.me/ads/click.php?s='.$rand.'"><img src="'.$Ads["name"].'" alt="Please Wait.."/></br><strong style="color:red">Click Here..</strong></a>';
+$pr='<a href="http://SparkHost.me/ads/click.php?s='.$rand.'"><img src="'.$Ads["name"].'" alt="Please Wait.."/></br><strong style="color:red">Download Now</strong></a>';
 }
 }
 }
 
 echo '<div class="line">Free Download Zone!</div>';
-echo '<div class="updates"><a href="http"><img src="http://SparkHost.me/banner.php" alt=""/></a></div>';
 if($chSblock["status"] == BLOCKED){
 echo '<div class="updates"><font color="red"><b>Sorry Your Site Is Blocked</b></font></div>';
 }
@@ -149,12 +148,11 @@ echo '<div class="updates"><font color="red"><b>Your Site Is Pending</b></font><
 if($chSblock["status"] == $activee){
 echo '<div class="updates"> <a href="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><img src="http://SparkHost.me/banner.php" alt=""/></div>';
 echo '<div class="updates">'.$pr.'</div>';
-echo '<div class="updates"> <a href="http://earnbuzz.in/cpa_promo.php?type=MainStream&user=madmasti"><img src="http://SparkHost.me/banner.php" alt=""/></a>
-</div>';
+echo '<div class="updates">'.$pr.'</div>';
+include 'a.php';
 echo '<div class="updates">'.$pr.'</div>';
 }
-echo '<div class="updates"> <a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="http://earnbuzz.in/banner.php" alt=""/></a>
-</div>';
+echo '<div class="updates">'.$pr.'</div>';
 echo '<div class="updates"><a href="http://earnbuzz.in/cpa_promo.php?type=Adult&user=madmasti"><img src="http://SparkHost.me/banner.php" alt="Please Wait.."/></a></div>';
 }
 else {
